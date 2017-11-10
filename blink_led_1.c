@@ -1,3 +1,7 @@
+/*
+ * Name: Hai Dang (danghai@pdx.edu)
+ * blink_led_1.c: blinking LED in 1s by writting directly to system bbb
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>

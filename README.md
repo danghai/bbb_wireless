@@ -2,4 +2,4 @@
 
 Experiments, Learning and Sharing done at BeagleBone Black Wireless
 
-* [bbb-poke](https://github.com/danghai/bbb_wireless/bbb-poke) :Bare metal code for BBB
+* [bbb-arm](https://github.com/danghai/bbb_wireless/tree/master/bbb-arm) :Bare metal code for BBB

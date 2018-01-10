@@ -23,3 +23,16 @@ Install:
 	./bb-get-rcn-kernel-source.sh 
 	sudo apt-get install linux-headers-4.4.97-bone20 
 ```
+
+### Install wifi for bbb
+
+```
+        $ sudo connmanctl
+	$ connmanctl> enable wifi
+        $ connmanctl> scan wifi
+        $ connmanctl> services
+        $ connmanctl> agent on
+        $ connmanctl> connect wifi_xxx
+	Passphrase? xxxxxxxxxxx
+        $ connmanctl> quit
+```
